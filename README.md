@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bhargav Undavalli
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java Full Stack
+- 💞️ I’m looking for an entry level oppurtunity as a Software Developer
+- 📫 Reach me via email - bhargavundavalli@gmail.com
